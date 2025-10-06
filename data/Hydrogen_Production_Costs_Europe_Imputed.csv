@@ -1,0 +1,511 @@
+Country,Technology,Cost,Value (€/kg),Year
+Austria,Grid electrolysis,CAPEX,2.761182013,2024.0
+Belgium,Grid electrolysis,CAPEX,2.761182013,2024.0
+Bulgaria,Grid electrolysis,CAPEX,2.761182013,2024.0
+Croatia,Grid electrolysis,CAPEX,2.761182013,2024.0
+Czechia,Grid electrolysis,CAPEX,2.761182013,2024.0
+Cyprus,Grid electrolysis,CAPEX,2.761182013,2024.0
+Denmark,Grid electrolysis,CAPEX,2.761182013,2024.0
+Estonia,Grid electrolysis,CAPEX,2.761182013,2024.0
+Finland,Grid electrolysis,CAPEX,2.761182013,2024.0
+France,Grid electrolysis,CAPEX,2.761182013,2024.0
+Germany,Grid electrolysis,CAPEX,2.761182013,2024.0
+Greece,Grid electrolysis,CAPEX,2.761182013,2024.0
+Hungary,Grid electrolysis,CAPEX,2.761182013,2024.0
+Ireland,Grid electrolysis,CAPEX,2.761182013,2024.0
+Italy,Grid electrolysis,CAPEX,2.761182013,2024.0
+Latvia,Grid electrolysis,CAPEX,2.761182013,2024.0
+Lithuania,Grid electrolysis,CAPEX,2.761182013,2024.0
+Luxembourg,Grid electrolysis,CAPEX,2.761182013,2024.0
+Malta,Grid electrolysis,CAPEX,2.761182013,2024.0
+Netherlands,Grid electrolysis,CAPEX,2.761182013,2024.0
+Norway,Grid electrolysis,CAPEX,2.761182013,2024.0
+Poland,Grid electrolysis,CAPEX,2.761182013,2024.0
+Portugal,Grid electrolysis,CAPEX,2.761182013,2024.0
+Romania,Grid electrolysis,CAPEX,2.761182013,2024.0
+Slovakia,Grid electrolysis,CAPEX,2.761182013,2024.0
+Slovenia,Grid electrolysis,CAPEX,2.761182013,2024.0
+Spain,Grid electrolysis,CAPEX,2.761182013,2024.0
+Sweden,Grid electrolysis,CAPEX,2.761182013,2024.0
+Switzerland,Grid electrolysis,CAPEX,2.761182013,2024.0
+United Kingdom,Grid electrolysis,CAPEX,2.761182013,2024.0
+Austria,Grid electrolysis,Grid Fees,1.395582689,2024.0
+Belgium,Grid electrolysis,Grid Fees,0.503058876,2024.0
+Bulgaria,Grid electrolysis,Grid Fees,1.092665516,2024.0
+Croatia,Grid electrolysis,Grid Fees,0.930388459,2024.0
+Czechia,Grid electrolysis,Grid Fees,2.369245029,2024.0
+Cyprus,Grid electrolysis,Grid Fees,1.000708517,2024.0
+Denmark,Grid electrolysis,Grid Fees,1.336081101,2024.0
+Estonia,Grid electrolysis,Grid Fees,1.54163204,2024.0
+Finland,Grid electrolysis,Grid Fees,0.72483752,2024.0
+France,Grid electrolysis,Grid Fees,0.849249931,2024.0
+Germany,Grid electrolysis,Grid Fees,2.147466385,2024.0
+Greece,Grid electrolysis,Grid Fees,0.530105052,2024.0
+Hungary,Grid electrolysis,Grid Fees,1.860776918,2024.0
+Ireland,Grid electrolysis,Grid Fees,0.843840695,2024.0
+Italy,Grid electrolysis,Grid Fees,0.784339108,2024.0
+Latvia,Grid electrolysis,Grid Fees,0.665335933,2024.0
+Lithuania,Grid electrolysis,Grid Fees,1.703909097,2024.0
+Luxembourg,Grid electrolysis,Grid Fees,0.557151228,2024.0
+Malta,Grid electrolysis,Grid Fees,1.514585864,2024.0
+Netherlands,Grid electrolysis,Grid Fees,1.601133627,2024.0
+Norway,Grid electrolysis,Grid Fees,0.286689467,2024.0
+Poland,Grid electrolysis,Grid Fees,1.444265806,2024.0
+Portugal,Grid electrolysis,Grid Fees,0.676154403,2024.0
+Romania,Grid electrolysis,Grid Fees,1.465902747,2024.0
+Slovakia,Grid electrolysis,Grid Fees,1.563268981,2024.0
+Slovenia,Grid electrolysis,Grid Fees,0.584197405,2024.0
+Spain,Grid electrolysis,Grid Fees,0.540923523,2024.0
+Sweden,Grid electrolysis,Grid Fees,0.697791344,2024.0
+Switzerland,Grid electrolysis,Grid Fees,0.697791344,2024.0
+United Kingdom,Grid electrolysis,Grid Fees,1.213704186,2024.0
+Austria,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Belgium,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Bulgaria,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Croatia,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Czechia,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Cyprus,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Denmark,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Estonia,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Finland,Grid electrolysis,Other OPEX,0.187372228,2024.0
+France,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Germany,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Greece,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Hungary,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Ireland,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Italy,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Latvia,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Lithuania,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Luxembourg,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Malta,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Netherlands,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Norway,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Poland,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Portugal,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Romania,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Slovakia,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Slovenia,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Spain,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Sweden,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Switzerland,Grid electrolysis,Other OPEX,0.187372228,2024.0
+United Kingdom,Grid electrolysis,Other OPEX,0.187372228,2024.0
+Austria,Grid electrolysis,Taxes,0.205550939,2024.0
+Belgium,Grid electrolysis,Taxes,0.968253106,2024.0
+Bulgaria,Grid electrolysis,Taxes,-0.654517462,2024.0
+Croatia,Grid electrolysis,Taxes,0.692382109,2024.0
+Czechia,Grid electrolysis,Taxes,0.757292932,2024.0
+Cyprus,Grid electrolysis,Taxes,3.429455134,2024.0
+Denmark,Grid electrolysis,Taxes,0.086547764,2024.0
+Estonia,Grid electrolysis,Taxes,0.632880522,2024.0
+Finland,Grid electrolysis,Taxes,0.032455411,2024.0
+France,Grid electrolysis,Taxes,0.319144878,2024.0
+Germany,Grid electrolysis,Taxes,1.638998274,2024.0
+Greece,Grid electrolysis,Taxes,0.530105052,2024.0
+Hungary,Grid electrolysis,Taxes,0.984480811,2024.0
+Ireland,Grid electrolysis,Taxes,0.183913998,2024.0
+Italy,Grid electrolysis,Taxes,1.422628865,2024.0
+Latvia,Grid electrolysis,Taxes,0.081138528,2024.0
+Lithuania,Grid electrolysis,Taxes,0.016227706,2024.0
+Luxembourg,Grid electrolysis,Taxes,0.027046176,2024.0
+Malta,Grid electrolysis,Taxes,0.081138528,2024.0
+Netherlands,Grid electrolysis,Taxes,0.768111402,2024.0
+Norway,Grid electrolysis,Taxes,0.443557289,2024.0
+Poland,Grid electrolysis,Taxes,3.451092075,2024.0
+Portugal,Grid electrolysis,Taxes,0.443557289,2024.0
+Romania,Grid electrolysis,Taxes,0.843840695,2024.0
+Slovakia,Grid electrolysis,Taxes,1.233305632,2024.0
+Slovenia,Grid electrolysis,Taxes,0.389464936,2024.0
+Spain,Grid electrolysis,Taxes,0.481421935,2024.0
+Sweden,Grid electrolysis,Taxes,0.037864647,2024.0
+Switzerland,Grid electrolysis,Taxes,0.037864647,2024.0
+United Kingdom,Grid electrolysis,Taxes,1.555785615,2024.0
+Austria,Grid electrolysis,Wholesale electricity costs,2.532860737,2024.0
+Belgium,Grid electrolysis,Wholesale electricity costs,1.949955076,2024.0
+Bulgaria,Grid electrolysis,Wholesale electricity costs,2.985108367,2024.0
+Croatia,Grid electrolysis,Wholesale electricity costs,2.845278014,2024.0
+Czechia,Grid electrolysis,Wholesale electricity costs,2.613281595,2024.0
+Cyprus,Grid electrolysis,Wholesale electricity costs,8.681822539,2024.0
+Denmark,Grid electrolysis,Wholesale electricity costs,1.767432924,2024.0
+Estonia,Grid electrolysis,Wholesale electricity costs,2.001830435,2024.0
+Finland,Grid electrolysis,Wholesale electricity costs,0.393631805,2024.0
+France,Grid electrolysis,Wholesale electricity costs,1.178785139,2024.0
+Germany,Grid electrolysis,Wholesale electricity costs,2.250475669,2024.0
+Greece,Grid electrolysis,Wholesale electricity costs,3.310635327,2024.0
+Hungary,Grid electrolysis,Wholesale electricity costs,2.841501421,2024.0
+Ireland,Grid electrolysis,Wholesale electricity costs,4.003445853,2024.0
+Italy,Grid electrolysis,Wholesale electricity costs,4.615798229,2024.0
+Latvia,Grid electrolysis,Wholesale electricity costs,2.055322092,2024.0
+Lithuania,Grid electrolysis,Wholesale electricity costs,2.051735228,2024.0
+Luxembourg,Grid electrolysis,Wholesale electricity costs,2.250475669,2024.0
+Malta,Grid electrolysis,Wholesale electricity costs,4.05692642,2024.0
+Netherlands,Grid electrolysis,Wholesale electricity costs,2.229653646,2024.0
+Norway,Grid electrolysis,Wholesale electricity costs,1.035436186,2024.0
+Poland,Grid electrolysis,Wholesale electricity costs,3.397629065,2024.0
+Portugal,Grid electrolysis,Wholesale electricity costs,1.117476055,2024.0
+Romania,Grid electrolysis,Wholesale electricity costs,2.976380972,2024.0
+Slovakia,Grid electrolysis,Wholesale electricity costs,2.736430163,2024.0
+Slovenia,Grid electrolysis,Wholesale electricity costs,2.781176278,2024.0
+Spain,Grid electrolysis,Wholesale electricity costs,1.066166212,2024.0
+Sweden,Grid electrolysis,Wholesale electricity costs,0.506646536,2024.0
+Switzerland,Grid electrolysis,Wholesale electricity costs,0.506646536,2024.0
+United Kingdom,Grid electrolysis,Wholesale electricity costs,3.805278206,2024.0
+Austria,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Belgium,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Bulgaria,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Croatia,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Czechia,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Cyprus,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Denmark,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Estonia,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Finland,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+France,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Germany,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Greece,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Hungary,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Ireland,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Italy,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Latvia,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Lithuania,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Luxembourg,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Malta,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Netherlands,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Norway,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Poland,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Portugal,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Romania,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Slovakia,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Slovenia,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Spain,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Sweden,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Switzerland,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+United Kingdom,Reforming with carbon capture,CAPEX,0.430114853,2024.0
+Austria,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Belgium,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Bulgaria,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Croatia,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Czechia,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Cyprus,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Denmark,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Estonia,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Finland,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+France,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Germany,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Greece,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Hungary,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Ireland,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Italy,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Latvia,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Lithuania,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Luxembourg,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Malta,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Netherlands,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Norway,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Poland,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Portugal,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Romania,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Slovakia,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Slovenia,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Spain,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Sweden,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+Switzerland,Reforming with carbon capture,CO2 costs,0.865900042,2024.0
+United Kingdom,Reforming with carbon capture,CO2 costs,0.883087744,2024.0
+Austria,Reforming with carbon capture,Natural gas costs,2.496281553,2024.0
+Belgium,Reforming with carbon capture,Natural gas costs,2.066578062,2024.0
+Bulgaria,Reforming with carbon capture,Natural gas costs,2.257217458,2024.0
+Croatia,Reforming with carbon capture,Natural gas costs,2.965559762,2024.0
+Czechia,Reforming with carbon capture,Natural gas costs,2.709728948,2024.0
+Cyprus,Reforming with carbon capture,Natural gas costs,2.709728948,2024.0
+Denmark,Reforming with carbon capture,Natural gas costs,2.736059641,2024.0
+Estonia,Reforming with carbon capture,Natural gas costs,3.118555228,2024.0
+Finland,Reforming with carbon capture,Natural gas costs,3.643675139,2024.0
+France,Reforming with carbon capture,Natural gas costs,2.171604195,2024.0
+Germany,Reforming with carbon capture,Natural gas costs,2.488065694,2024.0
+Greece,Reforming with carbon capture,Natural gas costs,2.348908225,2024.0
+Hungary,Reforming with carbon capture,Natural gas costs,2.803420927,2024.0
+Ireland,Reforming with carbon capture,Natural gas costs,1.835410722,2024.0
+Italy,Reforming with carbon capture,Natural gas costs,2.587127737,2024.0
+Latvia,Reforming with carbon capture,Natural gas costs,2.872921903,2024.0
+Lithuania,Reforming with carbon capture,Natural gas costs,1.970112531,2024.0
+Luxembourg,Reforming with carbon capture,Natural gas costs,4.049626825,2024.0
+Malta,Reforming with carbon capture,Natural gas costs,4.049626825,2024.0
+Netherlands,Reforming with carbon capture,Natural gas costs,2.084347357,2024.0
+Norway,Reforming with carbon capture,Natural gas costs,2.084347357,2024.0
+Poland,Reforming with carbon capture,Natural gas costs,2.922184806,2024.0
+Portugal,Reforming with carbon capture,Natural gas costs,2.320516129,2024.0
+Romania,Reforming with carbon capture,Natural gas costs,2.32988671,2024.0
+Slovakia,Reforming with carbon capture,Natural gas costs,3.489600093,2024.0
+Slovenia,Reforming with carbon capture,Natural gas costs,2.843867311,2024.0
+Spain,Reforming with carbon capture,Natural gas costs,1.982929234,2024.0
+Sweden,Reforming with carbon capture,Natural gas costs,3.967312777,2024.0
+Switzerland,Reforming with carbon capture,Natural gas costs,3.967312777,2024.0
+United Kingdom,Reforming with carbon capture,Natural gas costs,2.876262188,2024.0
+Austria,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Belgium,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Bulgaria,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Croatia,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Czechia,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Cyprus,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Denmark,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Estonia,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Finland,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+France,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Germany,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Greece,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Hungary,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Ireland,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Italy,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Latvia,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Lithuania,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Luxembourg,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Malta,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Netherlands,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Norway,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Poland,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Portugal,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Romania,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Slovakia,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Slovenia,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Spain,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Sweden,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Switzerland,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+United Kingdom,Reforming with carbon capture,Other OPEX,0.131201875,2024.0
+Croatia,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.411015622,2024.0
+Cyprus,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.986762702,2024.0
+Hungary,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,4.833389891,2024.0
+Italy,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,4.482893171,2024.0
+Luxembourg,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,5.030834944,2024.0
+Portugal,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.986762702,2024.0
+Romania,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,5.603616464,2024.0
+Slovakia,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,4.511889581,2024.0
+Slovenia,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,4.635309886,2024.0
+Bulgaria,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,5.481798715,2024.0
+Denmark,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,2.91248257,2024.0
+Finland,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.310835594,2024.0
+Greece,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,4.018529735,2024.0
+Latvia,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.892334074,2024.0
+Switzerland,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.892334074,2024.0
+Austria,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,4.073016394,2024.0
+Belgium,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,4.783861867,2024.0
+Czechia,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,4.078406964,2024.0
+Estonia,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.437467606,2024.0
+France,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.771859076,2024.0
+Germany,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.285832049,2024.0
+Ireland,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,2.400754536,2024.0
+Lithuania,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.346016981,2024.0
+Malta,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,4.002583188,2024.0
+Netherlands,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,2.794944146,2024.0
+Norway,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,2.294683237,2024.0
+Poland,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.283152288,2024.0
+Spain,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.940042826,2024.0
+Sweden,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,3.355812992,2024.0
+United Kingdom,Renewable hydrogen directly connected to a renewable electricity generation source,CAPEX,2.771003688,2024.0
+Croatia,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,2.800958626,2024.0
+Cyprus,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,1.489127569,2024.0
+Hungary,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,3.935570049,2024.0
+Italy,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,1.743665357,2024.0
+Luxembourg,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,4.092582297,2024.0
+Portugal,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,1.489127569,2024.0
+Romania,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,2.076027422,2024.0
+Slovakia,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,3.679906584,2024.0
+Slovenia,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,3.778052874,2024.0
+Bulgaria,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,2.03180894,2024.0
+Denmark,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,2.354021087,2024.0
+Finland,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,2.411472822,2024.0
+Greece,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,1.144957685,2024.0
+Latvia,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,3.187223675,2024.0
+Switzerland,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,3.187223675,2024.0
+Austria,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,3.330905863,2024.0
+Belgium,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,3.896184376,2024.0
+Czechia,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,3.335192552,2024.0
+Estonia,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,2.821979961,2024.0
+France,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,3.389584052,2024.0
+Germany,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,2.963881724,2024.0
+Ireland,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,1.77640905,2024.0
+Lithuania,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,2.749304347,2024.0
+Malta,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,1.494870229,2024.0
+Netherlands,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,2.238450543,2024.0
+Norway,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,1.886899624,2024.0
+Poland,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,2.927319087,2024.0
+Spain,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,1.545931429,2024.0
+Sweden,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,2.772074567,2024.0
+United Kingdom,Renewable hydrogen directly connected to a renewable electricity generation source,Electricity costs,2.676443578,2024.0
+Croatia,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Cyprus,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Hungary,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Italy,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Luxembourg,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Portugal,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Romania,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Slovakia,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Slovenia,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Bulgaria,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Denmark,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Finland,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Greece,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Latvia,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Switzerland,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Austria,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Belgium,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Czechia,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Estonia,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+France,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Germany,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Ireland,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Lithuania,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Malta,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Netherlands,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Norway,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Poland,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Spain,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Sweden,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+United Kingdom,Renewable hydrogen directly connected to a renewable electricity generation source,Grid fees and taxes,0.0,2024.0
+Croatia,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.233888374,2024.0
+Cyprus,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.21127024,2024.0
+Hungary,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.290800731,2024.0
+Italy,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.257875759,2024.0
+Luxembourg,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.30934833,2024.0
+Portugal,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.21127024,2024.0
+Romania,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.363154298,2024.0
+Slovakia,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.260599625,2024.0
+Slovenia,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.272193485,2024.0
+Bulgaria,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.351710979,2024.0
+Denmark,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.192855902,2024.0
+Finland,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.228180932,2024.0
+Greece,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.214254373,2024.0
+Latvia,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.202399801,2024.0
+Switzerland,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.202399801,2024.0
+Austria,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.219372742,2024.0
+Belgium,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.286148166,2024.0
+Czechia,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.219879122,2024.0
+Estonia,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.236968041,2024.0
+France,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.191082617,2024.0
+Germany,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.22522492,2024.0
+Ireland,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.154804876,2024.0
+Lithuania,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.226320921,2024.0
+Malta,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.212756385,2024.0
+Netherlands,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.184818837,2024.0
+Norway,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.147827599,2024.0
+Poland,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.224908108,2024.0
+Spain,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.206881467,2024.0
+Sweden,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.22746142,2024.0
+United Kingdom,Renewable hydrogen directly connected to a renewable electricity generation source,Other OPEX,0.181837507,2024.0
+Austria,SMR,CAPEX,0.262847965,2024.0
+Belgium,SMR,CAPEX,0.262847965,2024.0
+Bulgaria,SMR,CAPEX,0.262847965,2024.0
+Croatia,SMR,CAPEX,0.262847965,2024.0
+Czechia,SMR,CAPEX,0.262847965,2024.0
+Cyprus,SMR,CAPEX,0.262847965,2024.0
+Denmark,SMR,CAPEX,0.262847965,2024.0
+Estonia,SMR,CAPEX,0.262847965,2024.0
+Finland,SMR,CAPEX,0.262847965,2024.0
+France,SMR,CAPEX,0.262847965,2024.0
+Germany,SMR,CAPEX,0.262847965,2024.0
+Greece,SMR,CAPEX,0.262847965,2024.0
+Hungary,SMR,CAPEX,0.262847965,2024.0
+Ireland,SMR,CAPEX,0.262847965,2024.0
+Italy,SMR,CAPEX,0.262847965,2024.0
+Latvia,SMR,CAPEX,0.262847965,2024.0
+Lithuania,SMR,CAPEX,0.262847965,2024.0
+Luxembourg,SMR,CAPEX,0.262847965,2024.0
+Malta,SMR,CAPEX,0.262847965,2024.0
+Netherlands,SMR,CAPEX,0.262847965,2024.0
+Norway,SMR,CAPEX,0.262847965,2024.0
+Poland,SMR,CAPEX,0.262847965,2024.0
+Portugal,SMR,CAPEX,0.262847965,2024.0
+Romania,SMR,CAPEX,0.262847965,2024.0
+Slovakia,SMR,CAPEX,0.262847965,2024.0
+Slovenia,SMR,CAPEX,0.262847965,2024.0
+Spain,SMR,CAPEX,0.262847965,2024.0
+Sweden,SMR,CAPEX,0.262847965,2024.0
+Switzerland,SMR,CAPEX,0.262847965,2024.0
+United Kingdom,SMR,CAPEX,0.262847965,2024.0
+Austria,SMR,CO2 costs,0.494033435,2024.0
+Belgium,SMR,CO2 costs,0.494033435,2024.0
+Bulgaria,SMR,CO2 costs,0.494033435,2024.0
+Croatia,SMR,CO2 costs,0.494033435,2024.0
+Czechia,SMR,CO2 costs,0.494033435,2024.0
+Cyprus,SMR,CO2 costs,0.494033435,2024.0
+Denmark,SMR,CO2 costs,0.494033435,2024.0
+Estonia,SMR,CO2 costs,0.494033435,2024.0
+Finland,SMR,CO2 costs,0.494033435,2024.0
+France,SMR,CO2 costs,0.494033435,2024.0
+Germany,SMR,CO2 costs,0.494033435,2024.0
+Greece,SMR,CO2 costs,0.494033435,2024.0
+Hungary,SMR,CO2 costs,0.494033435,2024.0
+Ireland,SMR,CO2 costs,0.494033435,2024.0
+Italy,SMR,CO2 costs,0.494033435,2024.0
+Latvia,SMR,CO2 costs,0.494033435,2024.0
+Lithuania,SMR,CO2 costs,0.494033435,2024.0
+Luxembourg,SMR,CO2 costs,0.494033435,2024.0
+Malta,SMR,CO2 costs,0.494033435,2024.0
+Netherlands,SMR,CO2 costs,0.494033435,2024.0
+Norway,SMR,CO2 costs,0.494033435,2024.0
+Poland,SMR,CO2 costs,0.494033435,2024.0
+Portugal,SMR,CO2 costs,0.494033435,2024.0
+Romania,SMR,CO2 costs,0.494033435,2024.0
+Slovakia,SMR,CO2 costs,0.494033435,2024.0
+Slovenia,SMR,CO2 costs,0.494033435,2024.0
+Spain,SMR,CO2 costs,0.494033435,2024.0
+Sweden,SMR,CO2 costs,0.494033435,2024.0
+Switzerland,SMR,CO2 costs,0.494033435,2024.0
+United Kingdom,SMR,CO2 costs,0.332328005,2024.0
+Austria,SMR,Natural gas costs,2.311832537,2024.0
+Belgium,SMR,Natural gas costs,1.914628417,2024.0
+Bulgaria,SMR,Natural gas costs,2.097858092,2024.0
+Croatia,SMR,Natural gas costs,2.745876012,2024.0
+Czechia,SMR,Natural gas costs,2.508635603,2024.0
+Cyprus,SMR,Natural gas costs,2.508635603,2024.0
+Denmark,SMR,Natural gas costs,2.529146958,2024.0
+Estonia,SMR,Natural gas costs,2.884421105,2024.0
+Finland,SMR,Natural gas costs,3.355573443,2024.0
+France,SMR,Natural gas costs,2.007808912,2024.0
+Germany,SMR,Natural gas costs,2.303545855,2024.0
+Greece,SMR,Natural gas costs,2.181570188,2024.0
+Hungary,SMR,Natural gas costs,2.598659707,2024.0
+Ireland,SMR,Natural gas costs,1.712466483,2024.0
+Italy,SMR,Natural gas costs,2.40187448,2024.0
+Latvia,SMR,Natural gas costs,2.6590449,2024.0
+Lithuania,SMR,Natural gas costs,1.830513733,2024.0
+Luxembourg,SMR,Natural gas costs,3.736590504,2024.0
+Malta,SMR,Natural gas costs,3.736590504,2024.0
+Netherlands,SMR,Natural gas costs,1.932730583,2024.0
+Norway,SMR,Natural gas costs,1.932730583,2024.0
+Poland,SMR,Natural gas costs,2.706533279,2024.0
+Portugal,SMR,Natural gas costs,2.145843129,2024.0
+Romania,SMR,Natural gas costs,2.164796929,2024.0
+Slovakia,SMR,Natural gas costs,3.226325212,2024.0
+Slovenia,SMR,Natural gas costs,2.633321377,2024.0
+Spain,SMR,Natural gas costs,1.835933306,2024.0
+Sweden,SMR,Natural gas costs,3.65003255,2024.0
+Switzerland,SMR,Natural gas costs,3.65003255,2024.0
+United Kingdom,SMR,Natural gas costs,2.665691184,2024.0
+Austria,SMR,Other OPEX,0.091633056,2024.0
+Belgium,SMR,Other OPEX,0.091633056,2024.0
+Bulgaria,SMR,Other OPEX,0.091633056,2024.0
+Croatia,SMR,Other OPEX,0.091633056,2024.0
+Czechia,SMR,Other OPEX,0.091633056,2024.0
+Cyprus,SMR,Other OPEX,0.091633056,2024.0
+Denmark,SMR,Other OPEX,0.091633056,2024.0
+Estonia,SMR,Other OPEX,0.091633056,2024.0
+Finland,SMR,Other OPEX,0.091633056,2024.0
+France,SMR,Other OPEX,0.091633056,2024.0
+Germany,SMR,Other OPEX,0.091633056,2024.0
+Greece,SMR,Other OPEX,0.091633056,2024.0
+Hungary,SMR,Other OPEX,0.091633056,2024.0
+Ireland,SMR,Other OPEX,0.091633056,2024.0
+Italy,SMR,Other OPEX,0.091633056,2024.0
+Latvia,SMR,Other OPEX,0.091633056,2024.0
+Lithuania,SMR,Other OPEX,0.091633056,2024.0
+Luxembourg,SMR,Other OPEX,0.091633056,2024.0
+Malta,SMR,Other OPEX,0.091633056,2024.0
+Netherlands,SMR,Other OPEX,0.091633056,2024.0
+Norway,SMR,Other OPEX,0.091633056,2024.0
+Poland,SMR,Other OPEX,0.091633056,2024.0
+Portugal,SMR,Other OPEX,0.091633056,2024.0
+Romania,SMR,Other OPEX,0.091633056,2024.0
+Slovakia,SMR,Other OPEX,0.091633056,2024.0
+Slovenia,SMR,Other OPEX,0.091633056,2024.0
+Spain,SMR,Other OPEX,0.091633056,2024.0
+Sweden,SMR,Other OPEX,0.091633056,2024.0
+Switzerland,SMR,Other OPEX,0.091633056,2024.0
+United Kingdom,SMR,Other OPEX,0.091633056,2024.0

@@ -1,0 +1,12 @@
+﻿role,region,share_percent
+Producer,Europe,30
+Producer,Canada & USA,25
+Producer,Latin America,10
+Producer,India,5
+Producer,Middle East,8
+Producer,Rest of World,22
+Offtaker,Europe,50
+Offtaker,Canada & USA,20
+Offtaker,Japan,5
+Offtaker,Rest of World,10
+Offtaker,Global,15

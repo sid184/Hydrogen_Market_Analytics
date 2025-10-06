@@ -1,0 +1,39 @@
+﻿year,technology,sector,Projected status,production (ktpa H_2)
+2021,Electrolysis,Ammonia,,5
+2022,Electrolysis,Methanol,,5
+2022,Electrolysis,Ammonia,,5
+2023,Electrolysis,Ammonia,,5
+2023,Electrolysis,Methanol,,15
+2024,Electrolysis,Steel,,5
+2024,Electrolysis,Ammonia,,10
+2024,Electrolysis,Methanol,,15
+2025,Electrolysis,Steel,,5
+2025,Electrolysis,Other,,20
+2025,Electrolysis,Methanol,,20
+2025,Electrolysis,Ammonia,,80
+2030,Electrolysis,Ammonia,,280
+2030,Electrolysis,Methanol,,80
+2030,Electrolysis,Steel,,120
+2030,Electrolysis,Other,,50
+2030,Electrolysis,All sectors,Operational,100
+2030,Electrolysis,All sectors,FID,500
+2021,Fossil + CCUS,Ammonia,,180
+2021,Fossil + CCUS,Steel,,70
+2022,Fossil + CCUS,Ammonia,,200
+2022,Fossil + CCUS,Steel,,70
+2022,Fossil + CCUS,Methanol,,10
+2023,Fossil + CCUS,Ammonia,,200
+2023,Fossil + CCUS,Steel,,70
+2023,Fossil + CCUS,Methanol,,10
+2024,Fossil + CCUS,Ammonia,,200
+2024,Fossil + CCUS,Steel,,60
+2024,Fossil + CCUS,Methanol,,20
+2025,Fossil + CCUS,Ammonia,,380
+2025,Fossil + CCUS,Steel,,60
+2025,Fossil + CCUS,Methanol,,30
+2030,Fossil + CCUS,Ammonia,,630
+2030,Fossil + CCUS,Steel,,70
+2030,Fossil + CCUS,Other,,200
+2030,Fossil + CCUS,Methanol,,30
+2030,Fossil + CCUS,All sectors,Operational,420
+2030,Fossil + CCUS,All sectors,FID,550

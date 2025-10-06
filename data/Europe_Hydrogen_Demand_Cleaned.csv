@@ -1,0 +1,151 @@
+Country,End-use,Number of plants,Clean consumption T/Y,Other consumption T/Y,Total consumption,Year
+Austria,Refining,2.0,,57095.25873,57095.25873,2024.0
+Austria,Industrial heat,1.0,1034.010566,5167.45245,6201.463016,2024.0
+Austria,Mobility,,7.0,,7.0,2024.0
+Austria,Ammonia,2.0,,67037.59343,67037.59343,2024.0
+Austria,Other,,167.96,778.575,946.535,2024.0
+Austria,Other chemicals,2.0,224.7849057,1238.495094,1463.28,2024.0
+Austria,Power generation,1.0,224.7849057,,224.7849057,2024.0
+Belgium,Refining,3.0,,185985.3538,185985.3538,2024.0
+Belgium,Other chemicals,4.0,,41945.72413,41945.72413,2024.0
+Belgium,Industrial heat,4.0,,35897.33753,35897.33753,2024.0
+Belgium,Ammonia,2.0,,128636.7863,128636.7863,2024.0
+Belgium,Mobility,,38.0,,38.0,2024.0
+Bulgaria,Refining,2.0,,66133.54544,66133.54544,2024.0
+Bulgaria,Industrial heat,1.0,,3138.103976,3138.103976,2024.0
+Bulgaria,Ammonia,1.0,,55130.05125,55130.05125,2024.0
+Bulgaria,Other,,,12.923,12.923,2024.0
+Croatia,Refining,1.0,,57552.6744,57552.6744,2024.0
+Croatia,Ammonia,1.0,,19458.75857,19458.75857,2024.0
+Croatia,Other,,,15.907,15.907,2024.0
+Cyprus,Other,,,26.996,26.996,2024.0
+Czechia,Refining,3.0,,40770.18539,40770.18539,2024.0
+Czechia,Other chemicals,3.0,,14649.28396,14649.28396,2024.0
+Czechia,Industrial heat,1.0,,4507.175943,4507.175943,2024.0
+Czechia,Ammonia,1.0,,36753.3675,36753.3675,2024.0
+Czechia,Mobility,,,3.36,3.36,2024.0
+Czechia,Other,,,446.56,446.56,2024.0
+Denmark,Refining,2.0,,22966.56542,22966.56542,2024.0
+Denmark,Ammonia,1.0,1123.924528,,1123.924528,2024.0
+Denmark,Blending in natural gas pipelines,1.0,561.9622642,,561.9622642,2024.0
+Denmark,Methanol,3.0,1348.709434,32.8135,1381.522934,2024.0
+Denmark,Mobility,,40.0,,40.0,2024.0
+Denmark,Other,,561.9622642,509.901,1071.863264,2024.0
+Estonia,Mobility,,,0.24,0.24,2024.0
+Estonia,Other,,,1.378,1.378,2024.0
+Finland,Refining,3.0,,123324.852,123324.852,2024.0
+Finland,Industrial heat,1.0,,3408.060277,3408.060277,2024.0
+Finland,Other,,1011.532075,,1011.532075,2024.0
+Finland,Other chemicals,10.0,134.8709434,27908.29424,28043.16518,2024.0
+France,Refining,15.0,,343365.188,343365.188,2024.0
+France,Other chemicals,9.0,,29214.76255,29214.76255,2024.0
+France,Ammonia,4.0,,125382.5846,125382.5846,2024.0
+France,Other,,,21883.77971,21883.77971,2024.0
+France,Blending in natural gas pipelines,3.0,224.7849057,,224.7849057,2024.0
+France,Industrial heat,14.0,112.3924528,34795.00966,34907.40211,2024.0
+France,Mobility,,487.0,,487.0,2024.0
+Germany,Industrial heat,15.0,,72041.40214,72041.40214,2024.0
+Germany,Ammonia,4.0,,329217.8455,329217.8455,2024.0
+Germany,Methanol,4.0,,110741.4,110741.4,2024.0
+Germany,Blending in natural gas pipelines,5.0,1433.003774,,1433.003774,2024.0
+Germany,E-fuels,3.0,960.9554717,,960.9554717,2024.0
+Germany,Mobility,,1933.0,,1933.0,2024.0
+Germany,Other,,224.7849057,94725.36116,94950.14607,2024.0
+Germany,Other chemicals,21.0,3293.098868,138083.7335,141376.8323,2024.0
+Germany,Power generation,6.0,1742.083019,,1742.083019,2024.0
+Germany,Refining,23.0,1685.886792,729579.5146,731265.4014,2024.0
+Germany,Residential heat,1.0,112.3924528,,112.3924528,2024.0
+Germany,Steel,1.0,80.92256604,,80.92256604,2024.0
+Greece,Refining,4.0,,329032.1214,329032.1214,2024.0
+Greece,Industrial heat,1.0,,159.46,159.46,2024.0
+Greece,Ammonia,1.0,,20214.35213,20214.35213,2024.0
+Greece,Other,,112.3924528,9.802,122.1944528,2024.0
+Hungary,Industrial heat,2.0,,4677.2712,4677.2712,2024.0
+Hungary,Ammonia,2.0,,56747.76869,56747.76869,2024.0
+Hungary,Mobility,,,12.96,12.96,2024.0
+Hungary,Other,,,1369.377,1369.377,2024.0
+Hungary,Blending in natural gas pipelines,1.0,224.7849057,,224.7849057,2024.0
+Hungary,Other chemicals,4.0,112.3924528,63396.52935,63508.9218,2024.0
+Hungary,Refining,1.0,1123.924528,57099.60675,58223.53128,2024.0
+Iceland,Other,,,4.294,4.294,2024.0
+Iceland,Methanol,1.0,674.354717,,674.354717,2024.0
+Iceland,Mobility,,3.0,,3.0,2024.0
+Ireland,Refining,1.0,,5092.874757,5092.874757,2024.0
+Ireland,Other chemicals,1.0,,206.36,206.36,2024.0
+Ireland,Other,,,308.175,308.175,2024.0
+Italy,Refining,18.0,,466227.8034,466227.8034,2024.0
+Italy,Other chemicals,6.0,,9558.869449,9558.869449,2024.0
+Italy,Industrial heat,6.0,,8514.403174,8514.403174,2024.0
+Italy,Ammonia,1.0,,63918.9,63918.9,2024.0
+Italy,Mobility,,169.0,179.96,348.96,2024.0
+Italy,Other,,,7444.141391,7444.141391,2024.0
+Latvia,Mobility,,,132.0,132.0,2024.0
+Latvia,Other,,,8.59,8.59,2024.0
+Lithuania,Refining,1.0,,50651.94291,50651.94291,2024.0
+Lithuania,Ammonia,1.0,,92566.1993,92566.1993,2024.0
+Lithuania,Other,,,0.652,0.652,2024.0
+Luxemburg,Mobility,,,0.6,0.6,2024.0
+Luxemburg,Other,,,155.643,155.643,2024.0
+Netherlands,Other chemicals,12.0,,201866.7371,201866.7371,2024.0
+Netherlands,Industrial heat,5.0,,30315.78664,30315.78664,2024.0
+Netherlands,Ammonia,2.0,,368023.7199,368023.7199,2024.0
+Netherlands,Other,,,18234.294,18234.294,2024.0
+Netherlands,Mobility,,551.0,761.84,1312.84,2024.0
+Netherlands,Refining,8.0,280.9811321,433954.1188,434235.0999,2024.0
+Norway,Refining,2.0,,35165.67841,35165.67841,2024.0
+Norway,Industrial heat,3.0,,9036.630211,9036.630211,2024.0
+Norway,Methanol,1.0,,44906.4,44906.4,2024.0
+Norway,Ammonia,2.0,2866.007547,58389.60495,61255.6125,2024.0
+Norway,Mobility,,281.0,391.84,672.84,2024.0
+Norway,Other,,618.1584906,143.002,761.1604906,2024.0
+Norway,Other chemicals,,112.3924528,638.0075472,750.4,2024.0
+Norway,Power generation,1.0,280.9811321,,280.9811321,2024.0
+Norway,Steel,1.0,337.0,,337.0,2024.0
+Poland,Refining,4.0,,333270.6892,333270.6892,2024.0
+Poland,Other chemicals,4.0,,9342.54,9342.54,2024.0
+Poland,Industrial heat,2.0,,9231.3564,9231.3564,2024.0
+Poland,Ammonia,7.0,,324234.8774,324234.8774,2024.0
+Poland,Other,,,5797.509,5797.509,2024.0
+Poland,Mobility,,560.0,,560.0,2024.0
+Portugal,Refining,2.0,,114637.5039,114637.5039,2024.0
+Portugal,Other chemicals,3.0,,11886.79,11886.79,2024.0
+Portugal,Industrial heat,1.0,,4029.185324,4029.185324,2024.0
+Portugal,Mobility,,,12.48,12.48,2024.0
+Portugal,Other,,,546.856,546.856,2024.0
+Romania,Refining,3.0,,66994.56268,66994.56268,2024.0
+Romania,Industrial heat,2.0,,3316.768,3316.768,2024.0
+Romania,Ammonia,1.0,,45591.93095,45591.93095,2024.0
+Romania,Methanol,1.0,,2086.79625,2086.79625,2024.0
+Romania,Other,,,32.285,32.285,2024.0
+Slovakia,Refining,2.0,,72836.33635,72836.33635,2024.0
+Slovakia,Other chemicals,2.0,,9786.036235,9786.036235,2024.0
+Slovakia,Industrial heat,1.0,,1938.085843,1938.085843,2024.0
+Slovakia,Ammonia,1.0,,76829.6385,76829.6385,2024.0
+Slovakia,Other,,,56.03305749,56.03305749,2024.0
+Slovenia,Other chemicals,1.0,,1478.25,1478.25,2024.0
+Slovenia,Industrial heat,1.0,,255.136,255.136,2024.0
+Spain,Ammonia,3.0,2247.849057,69903.4538,72151.30286,2024.0
+Spain,Blending in natural gas pipelines,1.0,112.3924528,,112.3924528,2024.0
+Spain,Industrial heat,6.0,899.1396226,16166.41525,17065.55487,2024.0
+Spain,Mobility,,56.0,,56.0,2024.0
+Spain,Other chemicals,8.0,112.3924528,16570.25424,16682.64669,2024.0
+Spain,Refining,14.0,280.9811321,512835.2638,513116.2449,2024.0
+Sweden,Refining,4.0,,122278.2149,122278.2149,2024.0
+Sweden,Methanol,2.0,,2695.77,2695.77,2024.0
+Sweden,Industrial heat,3.0,2247.849057,8740.225519,10988.07458,2024.0
+Sweden,Mobility,,12.0,,12.0,2024.0
+Sweden,Other chemicals,2.0,561.9622642,22360.18673,22922.149,2024.0
+Sweden,Steel,1.0,505.7660377,,505.7660377,2024.0
+Switzerland,Refining,1.0,,10314.43919,10314.43919,2024.0
+Switzerland,E-fuels,1.0,280.9811321,,280.9811321,2024.0
+Switzerland,Mobility,,528.0,,528.0,2024.0
+Switzerland,Other,,56.19622642,514.194,570.3902264,2024.0
+Switzerland,Other chemicals,3.0,224.7849057,5736.320894,5961.1058,2024.0
+United Kingdom,Refining,9.0,,303339.8144,303339.8144,2024.0
+United Kingdom,Industrial heat,5.0,,19935.22201,19935.22201,2024.0
+United Kingdom,Ammonia,1.0,,33078.03075,33078.03075,2024.0
+United Kingdom,Other,,,12138.64866,12138.64866,2024.0
+United Kingdom,Blending in natural gas pipelines,1.0,56.19622642,,56.19622642,2024.0
+United Kingdom,Mobility,,738.0,445.65,1183.65,2024.0
+United Kingdom,Other chemicals,11.0,210.1738868,115571.4945,115781.6684,2024.0
+United Kingdom,Power generation,1.0,112.3924528,,112.3924528,2024.0

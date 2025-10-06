@@ -1,0 +1,23 @@
+year,technology,region,status,value (ktpa H_2)
+2021,Electrolysis,Global,,0.5
+2022,Electrolysis,Global,,1.0
+2023,Electrolysis,Global,,2.0
+2024,Electrolysis,Europe,,2.0
+2024,Electrolysis,China,,5.0
+2025,Electrolysis,Global,,2.0
+2025,Electrolysis,Europe,,5.0
+2025,Electrolysis,China,,15.0
+2030,Electrolysis,China,,10.0
+2030,Electrolysis,Europe,,50.0
+2030,Electrolysis,India,,10.0
+2030,Electrolysis,Global,Operational,15.0
+2030,Electrolysis,Global,Final Investment Decision,75.0
+2021,Fossil + CCUS,North America,,230.0
+2022,Fossil + CCUS,North America,,230.0
+2023,Fossil + CCUS,North America,,230.0
+2024,Fossil + CCUS,North America,,230.0
+2025,Fossil + CCUS,North America,,230.0
+2030,Fossil + CCUS,North America,,290.0
+2030,Fossil + CCUS,Europe,,160.0
+2030,Fossil + CCUS,Global,Operational,230.0
+2030,Fossil + CCUS,Global,Final Investment Decision,230.0
