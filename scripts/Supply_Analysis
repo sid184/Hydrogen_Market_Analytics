@@ -1,0 +1,179 @@
+"""
+supply_analysis.py
+------------------
+Performs comprehensive exploratory data analysis (EDA) and visualization 
+on global hydrogen project data to assess capacity, timing, technology mix, 
+status distribution, and top projects.
+
+Author: [Siddharta Adaikalaraj]
+Date: [06/10/2025]
+"""
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from IPython.display import display
+
+
+# ---------------------------------------------------------------------------
+# 1. Load and prepare dataset
+# ---------------------------------------------------------------------------
+def load_supply_data(filepath: str) -> pd.DataFrame:
+    """Load the cleaned hydrogen supply dataset and filter basic fields."""
+    df = pd.read_csv(filepath)
+    df = df.dropna(subset=["Date online", "Capacity_kt H2/y"])
+    df["Date online"] = df["Date online"].astype(int)
+    return df
+
+
+# ---------------------------------------------------------------------------
+# 2. Cumulative Supply Over Time
+# ---------------------------------------------------------------------------
+def plot_cumulative_supply(df: pd.DataFrame) -> None:
+    """Plot cumulative hydrogen supply capacity over time."""
+    df = df[df["Date online"] >= 2020]
+    supply_by_year = df.groupby("Date online")["Capacity_kt H2/y"].sum().sort_index()
+    cumulative = supply_by_year.cumsum()
+
+    plt.figure(figsize=(10, 6))
+    plt.plot(cumulative.index, cumulative.values, marker="o")
+    plt.title("Cumulative Hydrogen Supply Capacity Over Time (2020–)")
+    plt.xlabel("Year")
+    plt.ylabel("Cumulative Capacity (ktpa H₂/y)")
+    plt.grid(True)
+    plt.tight_layout()
+    plt.show()
+
+
+# ---------------------------------------------------------------------------
+# 3. Supply by Country (Top 10)
+# ---------------------------------------------------------------------------
+def plot_supply_by_country(df: pd.DataFrame) -> None:
+    """Plot stacked bar chart of supply capacity by top 10 countries (2025–2035)."""
+    df = df[(df["Date online"] >= 2025) & (df["Date online"] <= 2035)]
+    top10 = df.groupby("Country")["Capacity_kt H2/y"].sum().nlargest(10).index
+    df_top10 = df[df["Country"].isin(top10)]
+
+    supply_by_region = (
+        df_top10.groupby(["Date online", "Country"])["Capacity_kt H2/y"]
+        .sum()
+        .unstack(fill_value=0)
+    )
+
+    ax = supply_by_region.plot(kind="bar", stacked=True, figsize=(12, 7))
+    plt.title("Hydrogen Supply Capacity by Country and Year (Top 10, 2025–2035)")
+    plt.xlabel("Year")
+    plt.ylabel("Capacity (kt H₂/y)")
+    plt.legend(title="Country", loc="upper left", frameon=True, facecolor="white", framealpha=0.8)
+    plt.grid(True, axis='y', linestyle='--', linewidth=0.7, alpha=0.7)
+    plt.tight_layout()
+    plt.show()
+
+
+# ---------------------------------------------------------------------------
+# 4. Supply by Technology
+# ---------------------------------------------------------------------------
+def plot_supply_by_technology(df: pd.DataFrame) -> None:
+    """Plot hydrogen supply capacity by technology type (2025–2035)."""
+    tech_keep = ["AEM", "ALK", "Biomass", "PEM", "SOEC", "Other Electrolysis"]
+    df = df[(df["Date online"] >= 2025) & (df["Date online"] <= 2035)]
+    df = df[df["Technology"].isin(tech_keep)]
+
+    tech_by_year = (
+        df.groupby(["Date online", "Technology"])["Capacity_kt H2/y"]
+        .sum()
+        .unstack(fill_value=0)
+    )
+
+    ax = tech_by_year.plot(kind="bar", stacked=True, figsize=(12, 7))
+    plt.title("Hydrogen Supply Capacity by Technology (2025–2035)")
+    plt.xlabel("Year")
+    plt.ylabel("Capacity (ktpa H₂/y)")
+    plt.legend(title="Technology", loc="upper right", frameon=True, facecolor="white", framealpha=0.8)
+    plt.grid(True, axis='y', linestyle='--', linewidth=0.7, alpha=0.7)
+    plt.tight_layout()
+    plt.show()
+
+
+# ---------------------------------------------------------------------------
+# 5. Supply by Project Status
+# ---------------------------------------------------------------------------
+def plot_supply_by_status(df: pd.DataFrame) -> None:
+    """Visualize capacity distribution by project status at key milestone years."""
+    milestone_years = [2025, 2028, 2030, 2040]
+    df = df[df["Date online"].isin(milestone_years)]
+
+    status_by_year = (
+        df.groupby(["Date online", "Status"])["Capacity_kt H2/y"]
+        .sum()
+        .unstack(fill_value=0)
+    )
+
+    # Bar chart
+    status_by_year.plot(kind="bar", figsize=(12, 7))
+    plt.title("Hydrogen Project Capacity by Status at Key Milestones")
+    plt.xlabel("Year (Date Online)")
+    plt.ylabel("Capacity (kt H₂/y)")
+    plt.legend(title="Project Status", bbox_to_anchor=(1.05, 1), loc="upper left")
+    plt.tight_layout()
+    plt.show()
+
+    # Pie charts for each milestone
+    fig, axes = plt.subplots(2, 2, figsize=(12, 10))
+    for ax, year in zip(axes.flatten(), milestone_years):
+        year_data = df[df["Date online"] == year]["Status"].value_counts()
+        ax.pie(year_data, labels=year_data.index, autopct="%1.1f%%")
+        ax.set_title(f"Project Status of Online Year {year}")
+
+    plt.tight_layout()
+    plt.show()
+
+
+# ---------------------------------------------------------------------------
+# 6. Largest Projects (Scatter + Table)
+# ---------------------------------------------------------------------------
+def plot_top_projects(df: pd.DataFrame, top_n: int = 10) -> None:
+    """Show scatter plot of projects and highlight top-N largest by capacity."""
+    df = df[(df["Date online"] >= 2020) & (df["Date online"] <= 2040)]
+    top_projects = df.nlargest(top_n, "Capacity_kt H2/y")
+
+    plt.figure(figsize=(12, 6))
+    years_jittered = df["Date online"] + np.random.uniform(-0.2, 0.2, size=len(df))
+    sizes = (df["Capacity_kt H2/y"] ** 0.3) * 10
+
+    plt.scatter(years_jittered, df["Capacity_kt H2/y"], s=sizes,
+                alpha=0.4, color="steelblue", label="Other projects")
+
+    plt.scatter(top_projects["Date online"], top_projects["Capacity_kt H2/y"],
+                s=(top_projects["Capacity_kt H2/y"] ** 0.3) * 10,
+                color="red", edgecolor="black", label=f"Top {top_n} projects")
+
+    plt.yscale("log")
+    plt.ylim(0.05, 10000)
+    plt.title("Hydrogen Project Capacities Over Time (2020–2040)")
+    plt.xlabel("Year Online")
+    plt.ylabel("Capacity (ktpa H₂/y, log scale)")
+    plt.legend()
+    plt.grid(True, which="both", linestyle="--", linewidth=0.3, alpha=0.4)
+    plt.tight_layout()
+    plt.show()
+
+    # Display table
+    table = top_projects[["Project name", "Country", "Date online", "Capacity_kt H2/y"]].reset_index(drop=True)
+    print(f"Top {top_n} Largest Hydrogen Projects by Capacity:")
+    display(table)
+
+
+# ---------------------------------------------------------------------------
+# Main execution
+# ---------------------------------------------------------------------------
+if __name__ == "__main__":
+    df_supply = load_supply_data("HydrogenProjects_Supply_Cleaned.csv")
+
+    plot_cumulative_supply(df_supply)
+    plot_supply_by_country(df_supply)
+    plot_supply_by_technology(df_supply)
+    plot_supply_by_status(df_supply)
+    plot_top_projects(df_supply, top_n=10)
+
+    print("\n Supply analysis complete.")
